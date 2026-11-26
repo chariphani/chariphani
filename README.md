@@ -136,7 +136,7 @@ An AI platform offering multiple intelligent tools with a credit-based subscript
 
 
 
-<a href="https://github.com/chariphani">
+<a href="https://github.com/chariphani/NexaAI">
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
