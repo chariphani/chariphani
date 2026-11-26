@@ -100,6 +100,7 @@ const phanindhra = {
 ---
 
 
+
 <!-- =============== FEATURED PROJECTS =============== -->
 
 <div align="center">
@@ -134,8 +135,11 @@ An AI platform offering multiple intelligent tools with a credit-based subscript
 - 🔐 JWT Authentication
 - 💳 Razorpay Payment Integration
 
+<br/>
 
-
+<a href="https://nexa-ai-chi-sable.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://github.com/chariphani/NexaAI">
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -161,9 +165,12 @@ An intelligent application that helps users practice interview questions and eva
 - 👤 User Profile Management
 - 🔐 Authentication
 
+<br/>
 
-
-<a href="YOUR_INTERVIEWPREP_GITHUB_URL">
+<a href="https://ai-interview-zeta-coral.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/chariphani/Ai--Interview-">
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -191,8 +198,12 @@ A creative application that transforms text prompts into AI-generated images.
 - 📚 Image History
 - ⬇️ Image Download
 
+<br/>
 
-<a href="YOUR_PIXELFORGE_GITHUB_URL">
+<a href="https://pixel-forge-ai-livid.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/chariphani/pixelForge-AI">
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -217,9 +228,12 @@ A MERN application for creating, managing and publishing blog posts.
 - 🔐 JWT Authentication
 - 🗄️ MongoDB Database
 
+<br/>
 
-
-<a href="YOUR_BLOGSPHERE_GITHUB_URL">
+<a href="https://blog-sphere-rouge-eight.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/chariphani/BlogSphere-">
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -247,9 +261,12 @@ A responsive application to explore recipes, ingredients and cooking instruction
 - 🌐 TheMealDB API Integration
 - 📱 Responsive Design
 
+<br/>
 
-
-<a href="YOUR_RECIPEHUB_GITHUB_URL">
+<a href="https://recipehub-amber.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/chariphani/recipehub">
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -269,8 +286,6 @@ A responsive application to explore recipes, ingredients and cooking instruction
 
 </div>
 
-
----
 
 
 ## 📊 GitHub Statistics
