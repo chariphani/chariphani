@@ -3,21 +3,57 @@
 <!--                 CHARIPHANI - PROFILE                  -->
 <!-- ===================================================== -->
 
+
+
+
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:4B0082,100:9D4EDD&height=220&section=header&text=PHANINDHRA%20CHARI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+<!-- 3D NEON ANIMATED HEADER -->
 
-<!-- Typing Animation -->
-<a href="https://github.com/chariphani">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Building+AI-Powered+Applications;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,20:240046,50:7B2CBF,80:C77DFF,100:090014&height=280&section=header&text=PHANINDHRA%20CHARI&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20INTEGRATION&descSize=18&descAlignY=58&animation=twinkling&stroke=C77DFF&strokeWidth=2" width="100%" />
+
+<!-- ANIMATED TYPING EFFECT -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=2500&pause=900&color=C77DFF&center=true&vCenter=true&width=850&height=65&lines=FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;AI+APPLICATION+BUILDER;REACT+%7C+NODE.JS+%7C+MONGODB;BUILDING+THE+FUTURE+WITH+CODE" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=chariphani&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+<!-- NEON TECHNOLOGY BADGES -->
+
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPRESS-FFFFFF?style=for-the-badge&logo=express&logoColor=black" />
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<br/><br/>
+
+<!-- PROFILE VIEWS -->
+
+<img src="https://komarev.com/ghpvc/?username=chariphani&label=PROFILE+VISITORS&color=9333EA&style=for-the-badge" />
+
+<br/><br/>
+
+<!-- GITHUB FOLLOW -->
+
+
+### ⚡ CODE • CREATE • INNOVATE • REPEAT ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20,24&height=3&section=header" width="90%" />
 
 </div>
+
+<!-- BOTTOM ANIMATED FOOTER -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:7B2CBF,100:C77DFF&height=120&section=footer&animation=twinkling" width="100%" />
+
+</div>
+
+
+
+
 
 ---
 
