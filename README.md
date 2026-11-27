@@ -137,6 +137,7 @@ const phanindhra = {
 
 
 
+
 <!-- =============== FEATURED PROJECTS =============== -->
 
 <div align="center">
@@ -149,9 +150,30 @@ const phanindhra = {
 
 ---
 
-<table>
-<tr>
-<td width="50%" align="center">
+<style>
+.projects-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 28px;
+  margin: 24px 0;
+}
+.project-card {
+  border: 1px solid #6d28d9;
+  border-radius: 14px;
+  padding: 22px;
+  text-align: center;
+}
+@media (min-width: 768px) {
+  .projects-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 30px;
+  }
+}
+</style>
+
+<div class="projects-grid">
+
+<div class="project-card">
 
 ## 💜 01. NexaAI
 
@@ -171,8 +193,6 @@ An AI platform offering multiple intelligent tools with a credit-based subscript
 - 🔐 JWT Authentication
 - 💳 Razorpay Payment Integration
 
-<br/>
-
 <a href="https://nexa-ai-chi-sable.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -180,8 +200,9 @@ An AI platform offering multiple intelligent tools with a credit-based subscript
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-<td width="50%" align="center">
+</div>
+
+<div class="project-card">
 
 ## 💜 02. InterviewPrep AI
 
@@ -201,8 +222,6 @@ An intelligent application that helps users practice interview questions and eva
 - 👤 User Profile Management
 - 🔐 Authentication
 
-<br/>
-
 <a href="https://ai-interview-zeta-coral.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -210,11 +229,9 @@ An intelligent application that helps users practice interview questions and eva
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td width="50%" align="center">
+<div class="project-card">
 
 ## 💜 03. PixelForge AI
 
@@ -234,8 +251,6 @@ A creative application that transforms text prompts into AI-generated images.
 - 📚 Image History
 - ⬇️ Image Download
 
-<br/>
-
 <a href="https://pixel-forge-ai-livid.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -243,8 +258,9 @@ A creative application that transforms text prompts into AI-generated images.
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-<td width="50%" align="center">
+</div>
+
+<div class="project-card">
 
 ## 💜 04. BlogSphere
 
@@ -264,8 +280,6 @@ A MERN application for creating, managing and publishing blog posts.
 - 🔐 JWT Authentication
 - 🗄️ MongoDB Database
 
-<br/>
-
 <a href="https://blog-sphere-rouge-eight.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -273,11 +287,9 @@ A MERN application for creating, managing and publishing blog posts.
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td colspan="2" align="center">
+<div class="project-card">
 
 ## 💜 05. RecipeHub
 
@@ -297,8 +309,6 @@ A responsive application to explore recipes, ingredients and cooking instruction
 - 🌐 TheMealDB API Integration
 - 📱 Responsive Design
 
-<br/>
-
 <a href="https://recipehub-amber.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -306,9 +316,9 @@ A responsive application to explore recipes, ingredients and cooking instruction
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ---
 
@@ -321,6 +331,7 @@ A responsive application to explore recipes, ingredients and cooking instruction
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Explore+My+Projects;Explore+My+Code;Let's+Build+Something+Amazing!" />
 
 </div>
+
 
 
 
