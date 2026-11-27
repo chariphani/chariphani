@@ -150,26 +150,7 @@ const phanindhra = {
 
 ---
 
-<style>
-.projects-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 28px;
-  margin: 24px 0;
-}
-.project-card {
-  border: 1px solid #6d28d9;
-  border-radius: 14px;
-  padding: 22px;
-  text-align: center;
-}
-@media (min-width: 768px) {
-  .projects-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 30px;
-  }
-}
-</style>
+
 
 <div class="projects-grid">
 
